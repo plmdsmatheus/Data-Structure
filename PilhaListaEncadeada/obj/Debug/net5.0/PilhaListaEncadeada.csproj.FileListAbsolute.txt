@@ -1,0 +1,16 @@
+C:\Users\20211014040022\Desktop\Data-Structure\PilhaListaEncadeada\obj\Debug\net5.0\PilhaListaEncadeada.csproj.AssemblyReference.cache
+C:\Users\20211014040022\Desktop\Data-Structure\PilhaListaEncadeada\obj\Debug\net5.0\PilhaListaEncadeada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20211014040022\Desktop\Data-Structure\PilhaListaEncadeada\obj\Debug\net5.0\PilhaListaEncadeada.AssemblyInfoInputs.cache
+C:\Users\20211014040022\Desktop\Data-Structure\PilhaListaEncadeada\obj\Debug\net5.0\PilhaListaEncadeada.AssemblyInfo.cs
+C:\Users\20211014040022\Desktop\Data-Structure\PilhaListaEncadeada\obj\Debug\net5.0\PilhaListaEncadeada.csproj.CoreCompileInputs.cache
+C:\Users\20211014040022\Desktop\Data-Structure\PilhaListaEncadeada\bin\Debug\net5.0\PilhaListaEncadeada.exe
+C:\Users\20211014040022\Desktop\Data-Structure\PilhaListaEncadeada\bin\Debug\net5.0\PilhaListaEncadeada.deps.json
+C:\Users\20211014040022\Desktop\Data-Structure\PilhaListaEncadeada\bin\Debug\net5.0\PilhaListaEncadeada.runtimeconfig.json
+C:\Users\20211014040022\Desktop\Data-Structure\PilhaListaEncadeada\bin\Debug\net5.0\PilhaListaEncadeada.runtimeconfig.dev.json
+C:\Users\20211014040022\Desktop\Data-Structure\PilhaListaEncadeada\bin\Debug\net5.0\PilhaListaEncadeada.dll
+C:\Users\20211014040022\Desktop\Data-Structure\PilhaListaEncadeada\bin\Debug\net5.0\ref\PilhaListaEncadeada.dll
+C:\Users\20211014040022\Desktop\Data-Structure\PilhaListaEncadeada\bin\Debug\net5.0\PilhaListaEncadeada.pdb
+C:\Users\20211014040022\Desktop\Data-Structure\PilhaListaEncadeada\obj\Debug\net5.0\PilhaListaEncadeada.dll
+C:\Users\20211014040022\Desktop\Data-Structure\PilhaListaEncadeada\obj\Debug\net5.0\ref\PilhaListaEncadeada.dll
+C:\Users\20211014040022\Desktop\Data-Structure\PilhaListaEncadeada\obj\Debug\net5.0\PilhaListaEncadeada.pdb
+C:\Users\20211014040022\Desktop\Data-Structure\PilhaListaEncadeada\obj\Debug\net5.0\PilhaListaEncadeada.genruntimeconfig.cache
