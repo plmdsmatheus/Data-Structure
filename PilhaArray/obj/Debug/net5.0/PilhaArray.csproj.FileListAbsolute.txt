@@ -1,5 +1,0 @@
-C:\Users\20211014040022\Desktop\Data-Structure\PilhaArray\obj\Debug\net5.0\PilhaArray.csproj.AssemblyReference.cache
-C:\Users\20211014040022\Desktop\Data-Structure\PilhaArray\obj\Debug\net5.0\PilhaArray.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\20211014040022\Desktop\Data-Structure\PilhaArray\obj\Debug\net5.0\PilhaArray.AssemblyInfoInputs.cache
-C:\Users\20211014040022\Desktop\Data-Structure\PilhaArray\obj\Debug\net5.0\PilhaArray.AssemblyInfo.cs
-C:\Users\20211014040022\Desktop\Data-Structure\PilhaArray\obj\Debug\net5.0\PilhaArray.csproj.CoreCompileInputs.cache
