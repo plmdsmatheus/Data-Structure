@@ -1,0 +1,14 @@
+C:\Users\mathe\Desktop\EDl\Data-Structure\Pilha\PilhaDuasFila\bin\Debug\net7.0\PilhaDuasFila.exe
+C:\Users\mathe\Desktop\EDl\Data-Structure\Pilha\PilhaDuasFila\bin\Debug\net7.0\PilhaDuasFila.deps.json
+C:\Users\mathe\Desktop\EDl\Data-Structure\Pilha\PilhaDuasFila\bin\Debug\net7.0\PilhaDuasFila.runtimeconfig.json
+C:\Users\mathe\Desktop\EDl\Data-Structure\Pilha\PilhaDuasFila\bin\Debug\net7.0\PilhaDuasFila.dll
+C:\Users\mathe\Desktop\EDl\Data-Structure\Pilha\PilhaDuasFila\bin\Debug\net7.0\PilhaDuasFila.pdb
+C:\Users\mathe\Desktop\EDl\Data-Structure\Pilha\PilhaDuasFila\obj\Debug\net7.0\PilhaDuasFila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\EDl\Data-Structure\Pilha\PilhaDuasFila\obj\Debug\net7.0\PilhaDuasFila.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\EDl\Data-Structure\Pilha\PilhaDuasFila\obj\Debug\net7.0\PilhaDuasFila.AssemblyInfo.cs
+C:\Users\mathe\Desktop\EDl\Data-Structure\Pilha\PilhaDuasFila\obj\Debug\net7.0\PilhaDuasFila.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\EDl\Data-Structure\Pilha\PilhaDuasFila\obj\Debug\net7.0\PilhaDuasFila.dll
+C:\Users\mathe\Desktop\EDl\Data-Structure\Pilha\PilhaDuasFila\obj\Debug\net7.0\refint\PilhaDuasFila.dll
+C:\Users\mathe\Desktop\EDl\Data-Structure\Pilha\PilhaDuasFila\obj\Debug\net7.0\PilhaDuasFila.pdb
+C:\Users\mathe\Desktop\EDl\Data-Structure\Pilha\PilhaDuasFila\obj\Debug\net7.0\PilhaDuasFila.genruntimeconfig.cache
+C:\Users\mathe\Desktop\EDl\Data-Structure\Pilha\PilhaDuasFila\obj\Debug\net7.0\ref\PilhaDuasFila.dll

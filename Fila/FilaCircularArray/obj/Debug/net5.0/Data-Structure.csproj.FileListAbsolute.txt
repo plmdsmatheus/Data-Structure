@@ -1,0 +1,16 @@
+C:\Users\20211014040022\Desktop\Data-Structure\FilaCircularArray\bin\Debug\net5.0\Data-Structure.exe
+C:\Users\20211014040022\Desktop\Data-Structure\FilaCircularArray\bin\Debug\net5.0\Data-Structure.deps.json
+C:\Users\20211014040022\Desktop\Data-Structure\FilaCircularArray\bin\Debug\net5.0\Data-Structure.runtimeconfig.json
+C:\Users\20211014040022\Desktop\Data-Structure\FilaCircularArray\bin\Debug\net5.0\Data-Structure.runtimeconfig.dev.json
+C:\Users\20211014040022\Desktop\Data-Structure\FilaCircularArray\bin\Debug\net5.0\Data-Structure.dll
+C:\Users\20211014040022\Desktop\Data-Structure\FilaCircularArray\bin\Debug\net5.0\ref\Data-Structure.dll
+C:\Users\20211014040022\Desktop\Data-Structure\FilaCircularArray\bin\Debug\net5.0\Data-Structure.pdb
+C:\Users\20211014040022\Desktop\Data-Structure\FilaCircularArray\obj\Debug\net5.0\Data-Structure.csproj.AssemblyReference.cache
+C:\Users\20211014040022\Desktop\Data-Structure\FilaCircularArray\obj\Debug\net5.0\Data-Structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20211014040022\Desktop\Data-Structure\FilaCircularArray\obj\Debug\net5.0\Data-Structure.AssemblyInfoInputs.cache
+C:\Users\20211014040022\Desktop\Data-Structure\FilaCircularArray\obj\Debug\net5.0\Data-Structure.AssemblyInfo.cs
+C:\Users\20211014040022\Desktop\Data-Structure\FilaCircularArray\obj\Debug\net5.0\Data-Structure.csproj.CoreCompileInputs.cache
+C:\Users\20211014040022\Desktop\Data-Structure\FilaCircularArray\obj\Debug\net5.0\Data-Structure.dll
+C:\Users\20211014040022\Desktop\Data-Structure\FilaCircularArray\obj\Debug\net5.0\ref\Data-Structure.dll
+C:\Users\20211014040022\Desktop\Data-Structure\FilaCircularArray\obj\Debug\net5.0\Data-Structure.pdb
+C:\Users\20211014040022\Desktop\Data-Structure\FilaCircularArray\obj\Debug\net5.0\Data-Structure.genruntimeconfig.cache
