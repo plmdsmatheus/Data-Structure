@@ -1,0 +1,16 @@
+C:\Users\20211014040022\Desktop\Data-Structure\Vetor\VetorArray\obj\Debug\net5.0\VetorArray.csproj.AssemblyReference.cache
+C:\Users\20211014040022\Desktop\Data-Structure\Vetor\VetorArray\obj\Debug\net5.0\VetorArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\20211014040022\Desktop\Data-Structure\Vetor\VetorArray\obj\Debug\net5.0\VetorArray.AssemblyInfoInputs.cache
+C:\Users\20211014040022\Desktop\Data-Structure\Vetor\VetorArray\obj\Debug\net5.0\VetorArray.AssemblyInfo.cs
+C:\Users\20211014040022\Desktop\Data-Structure\Vetor\VetorArray\obj\Debug\net5.0\VetorArray.csproj.CoreCompileInputs.cache
+C:\Users\20211014040022\Desktop\Data-Structure\Vetor\VetorArray\bin\Debug\net5.0\VetorArray.exe
+C:\Users\20211014040022\Desktop\Data-Structure\Vetor\VetorArray\bin\Debug\net5.0\VetorArray.deps.json
+C:\Users\20211014040022\Desktop\Data-Structure\Vetor\VetorArray\bin\Debug\net5.0\VetorArray.runtimeconfig.json
+C:\Users\20211014040022\Desktop\Data-Structure\Vetor\VetorArray\bin\Debug\net5.0\VetorArray.runtimeconfig.dev.json
+C:\Users\20211014040022\Desktop\Data-Structure\Vetor\VetorArray\bin\Debug\net5.0\VetorArray.dll
+C:\Users\20211014040022\Desktop\Data-Structure\Vetor\VetorArray\bin\Debug\net5.0\ref\VetorArray.dll
+C:\Users\20211014040022\Desktop\Data-Structure\Vetor\VetorArray\bin\Debug\net5.0\VetorArray.pdb
+C:\Users\20211014040022\Desktop\Data-Structure\Vetor\VetorArray\obj\Debug\net5.0\VetorArray.dll
+C:\Users\20211014040022\Desktop\Data-Structure\Vetor\VetorArray\obj\Debug\net5.0\ref\VetorArray.dll
+C:\Users\20211014040022\Desktop\Data-Structure\Vetor\VetorArray\obj\Debug\net5.0\VetorArray.pdb
+C:\Users\20211014040022\Desktop\Data-Structure\Vetor\VetorArray\obj\Debug\net5.0\VetorArray.genruntimeconfig.cache
