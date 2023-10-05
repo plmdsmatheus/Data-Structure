@@ -1,0 +1,14 @@
+C:\Users\mathe\Desktop\EDl\Data-Structure\Lista\ListaEncadeado\obj\Debug\net7.0\ListaEncadeado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\EDl\Data-Structure\Lista\ListaEncadeado\obj\Debug\net7.0\ListaEncadeado.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\EDl\Data-Structure\Lista\ListaEncadeado\obj\Debug\net7.0\ListaEncadeado.AssemblyInfo.cs
+C:\Users\mathe\Desktop\EDl\Data-Structure\Lista\ListaEncadeado\obj\Debug\net7.0\ListaEncadeado.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\EDl\Data-Structure\Lista\ListaEncadeado\bin\Debug\net7.0\ListaEncadeado.exe
+C:\Users\mathe\Desktop\EDl\Data-Structure\Lista\ListaEncadeado\bin\Debug\net7.0\ListaEncadeado.deps.json
+C:\Users\mathe\Desktop\EDl\Data-Structure\Lista\ListaEncadeado\bin\Debug\net7.0\ListaEncadeado.runtimeconfig.json
+C:\Users\mathe\Desktop\EDl\Data-Structure\Lista\ListaEncadeado\bin\Debug\net7.0\ListaEncadeado.dll
+C:\Users\mathe\Desktop\EDl\Data-Structure\Lista\ListaEncadeado\bin\Debug\net7.0\ListaEncadeado.pdb
+C:\Users\mathe\Desktop\EDl\Data-Structure\Lista\ListaEncadeado\obj\Debug\net7.0\ListaEncadeado.dll
+C:\Users\mathe\Desktop\EDl\Data-Structure\Lista\ListaEncadeado\obj\Debug\net7.0\refint\ListaEncadeado.dll
+C:\Users\mathe\Desktop\EDl\Data-Structure\Lista\ListaEncadeado\obj\Debug\net7.0\ListaEncadeado.pdb
+C:\Users\mathe\Desktop\EDl\Data-Structure\Lista\ListaEncadeado\obj\Debug\net7.0\ListaEncadeado.genruntimeconfig.cache
+C:\Users\mathe\Desktop\EDl\Data-Structure\Lista\ListaEncadeado\obj\Debug\net7.0\ref\ListaEncadeado.dll

@@ -1,0 +1,14 @@
+C:\Users\mathe\Desktop\EDl\Data-Structure\Lista\ListaArray\bin\Debug\net7.0\ListaArray.exe
+C:\Users\mathe\Desktop\EDl\Data-Structure\Lista\ListaArray\bin\Debug\net7.0\ListaArray.deps.json
+C:\Users\mathe\Desktop\EDl\Data-Structure\Lista\ListaArray\bin\Debug\net7.0\ListaArray.runtimeconfig.json
+C:\Users\mathe\Desktop\EDl\Data-Structure\Lista\ListaArray\bin\Debug\net7.0\ListaArray.dll
+C:\Users\mathe\Desktop\EDl\Data-Structure\Lista\ListaArray\bin\Debug\net7.0\ListaArray.pdb
+C:\Users\mathe\Desktop\EDl\Data-Structure\Lista\ListaArray\obj\Debug\net7.0\ListaArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\Desktop\EDl\Data-Structure\Lista\ListaArray\obj\Debug\net7.0\ListaArray.AssemblyInfoInputs.cache
+C:\Users\mathe\Desktop\EDl\Data-Structure\Lista\ListaArray\obj\Debug\net7.0\ListaArray.AssemblyInfo.cs
+C:\Users\mathe\Desktop\EDl\Data-Structure\Lista\ListaArray\obj\Debug\net7.0\ListaArray.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Desktop\EDl\Data-Structure\Lista\ListaArray\obj\Debug\net7.0\ListaArray.dll
+C:\Users\mathe\Desktop\EDl\Data-Structure\Lista\ListaArray\obj\Debug\net7.0\refint\ListaArray.dll
+C:\Users\mathe\Desktop\EDl\Data-Structure\Lista\ListaArray\obj\Debug\net7.0\ListaArray.pdb
+C:\Users\mathe\Desktop\EDl\Data-Structure\Lista\ListaArray\obj\Debug\net7.0\ListaArray.genruntimeconfig.cache
+C:\Users\mathe\Desktop\EDl\Data-Structure\Lista\ListaArray\obj\Debug\net7.0\ref\ListaArray.dll
